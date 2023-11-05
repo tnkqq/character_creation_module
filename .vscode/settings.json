@@ -3,5 +3,6 @@
     "python.linting.flake8Path": "path/to/flake8", 
     "python.analysis.diagnosticSeverityOverrides": {},
     "python.linting.enabled": true,
-    "python.linting.pylintEnabled": false
+    "python.linting.pylintEnabled": false,
+    "python.linting.mypyEnabled": false
 }
